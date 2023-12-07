@@ -1,0 +1,6 @@
+#!/bin/bash
+export TOK='eyJhIjoiOTVmMTZlNGFmMmM3YjNkOGY3M2IzN2VhZWZhZDNkZWMiLCJ0IjoiYzMxNzk1ODgtMjhkZC00Mzc0LWE0OWEtZTRiNDkyZGVkY2E5IiwicyI6Ik1XUTROelJoWVRVdFpXRTFaUzAwT0dFMUxXSTFNakF0TnpJeE16RmpOemt3TmpGaSJ9'
+export ARGO_DOMAIN='mcst.jianxian.love'
+export UUID='d352a88d-ebb8-451e-b350-964cf5e9feed'
+export VPATH='vls'
+export CF_IP='jianxian.xyz'
