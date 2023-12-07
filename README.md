@@ -6,6 +6,10 @@
 
 ![1](https://github.com/mengxianbo/magmanode-vpn/assets/36605259/b97a0060-0d4d-4747-9c8e-6e4994fa3fbd)
 
+*******注意 *******
+
+（一定要先启动服务器）
+
 2.创建自己的隧道
 
 ![2](https://github.com/mengxianbo/magmanode-vpn/assets/36605259/75884492-9c7f-48ca-9083-d887c5ca0c26)
